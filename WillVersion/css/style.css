@@ -1,0 +1,26 @@
+table.row {
+  max-width: 62.5rem;
+  margin-left: auto;
+  margin-right: auto;
+  border: none;
+}
+td.navbutton {
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+  height: 100%;
+  white-space: nowrap;
+}
+div.page {
+  background-color: white;
+  margin-right: auto;
+  margin-left: auto;
+  width: 80%;
+  border: 1px solid #8E97A5;
+  max-width: 62.5rem;
+}
+img.banner {
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+  width: 98%;
+}
