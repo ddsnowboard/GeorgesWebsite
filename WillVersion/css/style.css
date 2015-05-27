@@ -29,9 +29,22 @@ table.team {
   margin-top: 30px;
 }
 td.picture {
-  width: 30%;
+  width: 20%;
   vertical-align: top;
 }
 u {
   text-decoration: underline;
+}
+span.name {
+  font-size: 1.4em;
+  font-weight: bold;
+  line-height: 1.5em;
+}
+p.dates {
+  line-height: 1.4em;
+  font-size: 1em;
+}
+table.accomplishments td {
+  padding-top: .2rem;
+  padding-bottom: .2rem
 }
