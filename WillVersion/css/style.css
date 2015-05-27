@@ -4,6 +4,9 @@ table.row {
   margin-right: auto;
   border: none;
 }
+body {
+background-color: #DCDCDD;
+}
 td.navbutton {
   margin: 0 0 0 0;
   padding: 0 0 0 0;
@@ -58,5 +61,12 @@ div.about p {
 }
 div.about h2 {
   margin-bottom: 30px;
-  font-family: Georgia, serif;
+  font-family: Constantine, serif;
+}
+
+h4 {
+font-family: Verdana;
+font-size: 1em;
+}
+td.caption{text-align:center;
 }
