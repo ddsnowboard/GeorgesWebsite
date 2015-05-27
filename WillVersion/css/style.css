@@ -48,3 +48,15 @@ table.accomplishments td {
   padding-top: .2rem;
   padding-bottom: .2rem
 }
+div.about {
+  margin-right: 150px;
+  margin-left: 150px
+}
+div.about p {
+  line-height: 150%;
+  font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;
+}
+div.about h2 {
+  margin-bottom: 30px;
+  font-family: Georgia, serif;
+}
