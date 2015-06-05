@@ -54,8 +54,8 @@ table.accomplishments td {
   padding-bottom: .2rem
 }
 div.about {
-  margin-right: 150px;
-  margin-left: 150px;
+  margin-right: 15%;
+  margin-left: 15%;
   margin-bottom: 30px;
 }
 div.about p {
@@ -90,13 +90,13 @@ p {
 }
 .banner p {
   font-size: 2em;
-  padding-left: 60px;
-  padding-right: 60px;
+  padding-left: 10%;
+  padding-right: 10%;
   margin-top: 5px;
   font-family: Constantine, serif;
 }
 #faqhead {
-  margin-left: 30px;
+  margin-left: 10%;
   font-family: Constantine, serif;
 }
 p.disclaimer {
