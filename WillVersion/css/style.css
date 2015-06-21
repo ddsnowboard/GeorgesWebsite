@@ -95,12 +95,18 @@ p {
   margin-top: 5px;
   font-family: Constantine, serif;
 }
-#faqhead {
+.faqhead {
   margin-left: 10%;
   font-family: Constantine, serif;
+  font-size: 35px;
 }
 p.disclaimer {
   font-style: italic;
   font-family: Constantine, serif;
   font-size: .8em;
+}
+.list_holder {
+  margin-right: 15%;
+  margin-left: 15%;
+  margin-top: 20px;
 }
